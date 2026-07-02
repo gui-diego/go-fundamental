@@ -91,7 +91,3 @@ O workflow em `.github/workflows/ci.yaml` é disparado em pull requests para a b
 1. `go test` — valida os testes unitários
 2. `go run main.go` — executa o programa
 3. Build e push da imagem Docker para `guidft/golang-study:latest`
-
-## Autor
-
-**Guilherme Diego** — [github.com/gui-diego](https://github.com/gui-diego)
